@@ -1,25 +1,13 @@
 fileFormatVersion: 2
-guid: fd5a412f90fd4164c816d40fc1efc06a
+guid: 9c7345693e6e7b54a8bbb051ac90f60f
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
-    100000: Box001
-    100002: Cylinder001
-    100004: Cylinder002
-    100006: //RootNode
-    400000: Box001
-    400002: Cylinder001
-    400004: Cylinder002
-    400006: //RootNode
-    2300000: Box001
-    2300002: Cylinder001
-    2300004: Cylinder002
-    3300000: Box001
-    3300002: Cylinder001
-    3300004: Cylinder002
-    4300000: Box001
-    4300002: Cylinder001
-    4300004: Cylinder002
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Cylinder001
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -40,7 +28,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: .00999999978
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
