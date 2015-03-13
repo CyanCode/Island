@@ -16,8 +16,8 @@ public class AudioRpc : Photon.MonoBehaviour
 
         Debug.Log("Marco");
 
-        this.audio.clip = marco;
-        this.audio.Play();
+        this.GetComponent<AudioSource>().clip = marco;
+        this.GetComponent<AudioSource>().Play();
     }
 
     [RPC]
@@ -30,8 +30,8 @@ public class AudioRpc : Photon.MonoBehaviour
 
         Debug.Log("Polo");
 
-        this.audio.clip = polo;
-        this.audio.Play();
+        this.GetComponent<AudioSource>().clip = polo;
+        this.GetComponent<AudioSource>().Play();
     }
 
     void OnApplicationFocus(bool focus)

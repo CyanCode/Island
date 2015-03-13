@@ -18,7 +18,7 @@ public class SpawnPlayer : MonoBehaviour {
             Debug.Log(PhotonNetwork.playerName + ": Master User");
         }
 
-        player.camera.enabled = true;
+        player.GetComponent<Camera>().enabled = true;
        
         //player.GetComponent<CharacterController>().enabled = true;
         //player.GetComponent("Main Camera").GetComponent<Camera>().enabled = true;

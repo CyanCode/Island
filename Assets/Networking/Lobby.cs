@@ -49,7 +49,7 @@ public class Lobby : MonoBehaviour {
         GameObject player = PhotonNetwork.Instantiate("characterprefab", spawn, Quaternion.identity, 0);
         PhotonNetwork.playerName = "Guest" + Random.Range(1, 9999);
 
-        player.camera.enabled = true;
+        player.GetComponent<Camera>().enabled = true;
 
        
         //player.GetComponent<CharacterController>().enabled = true;

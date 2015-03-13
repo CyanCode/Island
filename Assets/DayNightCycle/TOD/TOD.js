@@ -54,7 +54,7 @@ sun.color = Color.Lerp (SunNight, SunDay, slider*2);
 //Uncheck IncludeWater if you are not interested in using this.
 if (IncludeWater == true)
 {
-	Water.renderer.material.SetColor("_horizonColor", Color.Lerp (WaterNight, WaterDay, slider2*2-0.2));
+	Water.GetComponent.<Renderer>().material.SetColor("_horizonColor", Color.Lerp (WaterNight, WaterDay, slider2*2-0.2));
 }
 
 if(slider<0.5){

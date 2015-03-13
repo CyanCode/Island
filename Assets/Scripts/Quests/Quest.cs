@@ -59,11 +59,11 @@ public class Quest : MonoBehaviour {
             currentObjective = "No objective.";
         }
     }
-
+    /*
     public bool questFinished()
     {
         FileInfo file = new FileInfo("done.txt");
-        StreamReader reader = file.OpenText();
+        StreamReader reader = new StreamReader();
         string text;
         
         while ((text = reader.ReadLine()) != null) {
@@ -76,7 +76,7 @@ public class Quest : MonoBehaviour {
         }
 
         return false;
-    }
+    } */
 
     public enum Items
     {
