@@ -16,6 +16,8 @@ public class AudioPlayer : MonoBehaviour {
             GetComponent<PhotonView>().RPC("PlaySound", PhotonTargets.All, new object[] { "stop" });
         } if (Input.GetKeyDown(KeyCode.Y)) {
             GetComponent<PhotonView>().RPC("PlaySound", PhotonTargets.All, new object[] { "yes" });
-        }
+        } if (Input.GetKeyDown(KeyCode.N)) {
+			GetComponent<PhotonView>().RPC("PlaySound", PhotonTargets.All, new object[] { "no" });
+		}
     }
 }
