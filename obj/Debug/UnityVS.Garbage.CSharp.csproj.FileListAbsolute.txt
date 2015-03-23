@@ -1,0 +1,17 @@
+C:\Users\CChristie\Documents\Garbage\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\CChristie\Documents\Garbage\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\CChristie\Documents\Garbage\Temp\UnityVS_bin\Debug\Assembly-UnityScript-firstpass.dll
+C:\Users\CChristie\Documents\Garbage\Temp\UnityVS_bin\Debug\CoherentNoise.dll
+C:\Users\CChristie\Documents\Garbage\Temp\UnityVS_bin\Debug\Photon3Unity3D.dll
+C:\Users\CChristie\Documents\Garbage\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\CChristie\Documents\Garbage\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\CChristie\Documents\Garbage\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\CChristie\Documents\Garbage\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\CChristie\Documents\Garbage\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\CChristie\Documents\Garbage\Temp\UnityVS_bin\Debug\Photon3Unity3D.pdb
+C:\Users\CChristie\Documents\Garbage\Temp\UnityVS_bin\Debug\Photon3Unity3D.xml
+C:\Users\CChristie\Documents\Garbage\obj\Debug\UnityVS.Garbage.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\CChristie\Documents\Garbage\obj\Debug\Assembly-CSharp.dll
+C:\Users\CChristie\Documents\Garbage\obj\Debug\Assembly-CSharp.pdb
+C:\Users\CChristie\Documents\Garbage\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\CChristie\Documents\Garbage\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
