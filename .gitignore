@@ -30,3 +30,8 @@ sysinfo.txt
 Icon?
 ehthumbs.db
 [Tt]humbs.db
+
+# ============ #
+# Custom #
+# ============ #
+*.pidb.meta
